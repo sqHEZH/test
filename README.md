@@ -1,4 +1,6 @@
 # test
 for personal study.
-for test windows10.
-for test onWEB.
+for private usage.
+only receive my own changes.
+thank you for github.
+so sorry for others.
